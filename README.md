@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# Curso DevQuest | Desafio Base do React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tabela do Conteudo
 
-## Available Scripts
+<ul>
+<li><a href="#sobre">Sobre</a></li>
+<li><a href="#desafios">Desafios</a></li>
+<li><a href="#status">Status</a></li>
+<li><a href="#layout">Layout</a></li>
+<li><a href="#curiosidade">Curiosidade</a></li>
+<li><a href="#tecnologias">Tecnologias</a></li>
+</ul>
 
-In the project directory, you can run:
+## Sobre
 
-### `npm start`
+### Esse desafio consiste na resolução do meu primeiro exercício solicitado pelo curso DevQuest – Dev em Dobro.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### 1º Commit - Está associado a minha primeira resolução deste desafio.<br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### 2º Commit - É a refatoração desse código após a correção e atualização do README.
 
-### `npm test`
+## Desafios
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<li>Desafio 1 - Componente que colore e transforma um texto para maiúsculo (uppercase) utilizando JS.
 
-### `npm run build`
+    Dê um bom nome ao seu componente;✅
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    Faça o componente renderizar na tela um parágrafo colorido e com todas as letras maiúsculas usando JS;✅
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    Utilize props para passar o texto e a cor de texto desejada para dentro do componente (a cor pode ser uma palavra, como 'red', ou um hexadecimal);✅
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    Pode utilizar o style inline para colorir o componente da forma que foi mostrado nas aulas;✅
 
-### `npm run eject`
+<li>Desafio 2 - Mostrar mensagem com a label do botão.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    Crie um componente Button com um evento de clique que apresente um alerta informando a prop label do botão que foi clicado, com a seguinte mensagem: "A label desse botão é <insira a label aqui via JS>";✅
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Status
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Desafio finalizado. 🥰
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Layout
+<img src="./src/assets/image/layout_do_desafio.png" alt="Layout do desafio">
 
-## Learn More
+## Curiosidade
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Este desafio me proporcionou muita satisfação ao concluí-lo. Além disso, pude observar a qualidade da estrutura e organização do código, que são ensinadas pelos professores do curso DevQuest no módulo de JavaScript. Consegui compreender todas as explicações sobre a construção do código e pude concluir as 3 solicitações, mantendo a estrutura original do código.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Tecnologias
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>GIT</li>
+</ul>
