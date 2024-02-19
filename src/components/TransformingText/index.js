@@ -1,9 +1,7 @@
-import './transforming-text.css'
+import './index.css'
 
 const TransformingText = ({text, color}) => {
-    return (
-        <p className='paragrafo' style={{color: color}}>{text.toUpperCase()}</p>
-    );
+    return <p className='paragrafo' style={{color: color}}>{text.toUpperCase()}</p>
 }
 
 TransformingText.defaultProps = {

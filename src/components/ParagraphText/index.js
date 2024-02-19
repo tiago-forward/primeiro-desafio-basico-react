@@ -1,4 +1,4 @@
-import TransformingText from "../transforming-text/transforming-text";
+import TransformingText from "../TransformingText";
 
 const ParagraphText = () => {
     return (
