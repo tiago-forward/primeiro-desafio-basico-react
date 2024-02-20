@@ -52,5 +52,6 @@ Este desafio me proporcionou muita satisfação ao concluí-lo. Além disso, pud
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
+<li>React</li>
 <li>GIT</li>
 </ul>
